@@ -1,0 +1,6 @@
+@Hmac_signature_implementation_HostAddress = http://localhost:5145
+
+GET {{Hmac_signature_implementation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
